@@ -1,4 +1,4 @@
-module github/lksndrttm/torrent
+module github.com/lksndrttm/torrent
 
 go 1.24.2
 
